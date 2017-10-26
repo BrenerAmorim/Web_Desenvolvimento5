@@ -3,7 +3,7 @@
 
 @section('content')
 
-    @include('layouts._site._descricaoPC')
+    @include('layouts._site._PC1')
 
 
 @stop
