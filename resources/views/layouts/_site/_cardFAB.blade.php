@@ -1,11 +1,10 @@
-   
  <div id="pc1"  >
-  <div class="card">
+  <div class="card green lighten-4">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/pc.png">
+      <img class="activator" src="img/pc1.png">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4">Título<i class="material-icons right">more_vert</i></span>
+      <span class="card-title activator grey-text text-darken-4">Dell Inspiron 15 5000<i class="material-icons right">more_vert</i></span>
       <p><a href="{{route('site.descricao')}}">Descrição</a></p>
     </div>
     <div class="card-reveal">
@@ -25,13 +24,13 @@
 
     </div>
     </div>
-  </div>
+  </div>  
 
 
   <div id="pc2" >
-  <div class="card">
-    <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/pc.png">
+  <div class="card green lighten-4">
+    <div class="card-image waves-effect waves-block waves-light ">
+      <img class="activator" src="img/pc1.png">
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4">Título<i class="material-icons right">more_vert</i></span>
@@ -56,9 +55,9 @@
     </div>
   </div>
   <div id="pc3" >
-  <div class="card">
+  <div class="card green lighten-4">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/pc.png">
+      <img class="activator" src="img/pc1.png">
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4">Título<i class="material-icons right">more_vert</i></span>
@@ -84,9 +83,9 @@
   </div>
 
   <div id="pc4" >
-  <div class="card">
+  <div class="card green lighten-4">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/pc.png">
+      <img class="activator" src="img/pc1.png">
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4">Título<i class="material-icons right">more_vert</i></span>
@@ -113,9 +112,9 @@
   </div>
 
     <div id="pc5" >
-  <div class="card">
+  <div class="card green lighten-4">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/pc.png">
+      <img class="activator" src="img/pc1.png">
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4">Título<i class="material-icons right">more_vert</i></span>
@@ -142,9 +141,9 @@
   </div>
 
     <div id="pc6" >
-  <div class="card">
+  <div class="card green lighten-4">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/pc.png">
+      <img class="activator" src="img/pc1.png">
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4">Título<i class="material-icons right">more_vert</i></span>
@@ -171,9 +170,9 @@
   </div>
 
     <div id="pc7" >
-  <div class="card">
+  <div class="card green lighten-4">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/pc.png">
+      <img class="activator" src="img/pc1.png">
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4">Título<i class="material-icons right">more_vert</i></span>
@@ -201,9 +200,9 @@
 
 
     <div id="pc8" >
-  <div class="card">
+  <div class="card green lighten-4">
     <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="img/pc.png">
+      <img class="activator" src="img/pc1.png">
     </div>
     <div class="card-content">
       <span class="card-title activator grey-text text-darken-4">Título<i class="material-icons right">more_vert</i></span>
@@ -228,4 +227,4 @@
     </div>
   </div>
 
-
+</div>

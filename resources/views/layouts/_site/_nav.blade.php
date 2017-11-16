@@ -2,7 +2,7 @@
 
 <nav id="nav-top">
     <div class="nav-wrapper">
-      <a href="{{route('site.home')}}" class="brand-logo"><img align="center" src = "img/icone_search.png"></a>
+      <a href="{{route('site.home')}}" class="brand-logo"><img align="center" src = "img/gampComputers.jpg"></a>
 
       <!--Configuração Desktop-->
       <ul class="right hide-on-med-and-down">

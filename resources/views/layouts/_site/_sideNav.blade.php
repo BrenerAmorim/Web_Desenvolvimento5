@@ -1,5 +1,5 @@
 <div id="navSide">
-<ul id="slide-out" class="side-nav">
+<ul id="slide-out" class="side-nav blue lighten-5">
     <li><div class="user-view">
       <div class="background">
         <img src="images/office.jpg">
@@ -13,7 +13,7 @@
 
     <ul class="collapsible collapsible-accordion">
           <li>
-            <a class="collapsible-header">Categoria<i class="material-icons">arrow_drop_down</i></a>
+            <a class="collapsible-header">Categoria<i class="material-icons"><img align="center" src = "img/icon_pc2.png"></i></a>
             <div class="collapsible-body">
               <ul>
                 <li><a href="#!">Games</a></li>
@@ -35,8 +35,8 @@
               <ul>
                 <li><a href="#!">valor < <b>1000R$</b></a></li>
                 <li><a href="#!"><b>1000R$</b> <= valor <= 2000R$</a></li>
-                <li><a href="#!"><b>1500R$</b> <= valor <= 2500R$</a></li>
-                <li><a href="#!"><b>2500R$</b> <= valor</a></li>
+                <li><a href="#!"><b>2000R$</b> <= valor <= 4000R$</a></li>
+                <li><a href="#!"><b>4000R$</b> <= valor</a></li>
               </ul>
             </div>
           </li>
@@ -47,7 +47,7 @@
   <div class="fixed-action-btn horizontal">
 
 
-  <a href="#" data-activates="slide-out" class="button-collapse show-on-large btn-large btn-floating "> <i class="material-icons">menu</i>
+  <a href="#" data-activates="slide-out" class="button-collapse show-on-large btn-large btn-floating"> <i class="material-icons grey-text text-darken-4">menu</i>
    </a>
 
  </div>
