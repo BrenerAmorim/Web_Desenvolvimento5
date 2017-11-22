@@ -23,10 +23,10 @@ $(document).ready(function(){
       stopPropagation: false // Stops event propagation
     }
   );
-
-     $('#textarea1').val('');
-     $('#textarea1').trigger('autoresize')
-    
-
+      
+    $(document).ready(function(){
+    $('.materialboxed').materialbox();
+  });
+ 
 
 });
