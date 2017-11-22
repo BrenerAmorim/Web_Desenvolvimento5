@@ -1,0 +1,5 @@
+.ilike-blue-container {
+    @extend .page-footer;
+    color: blue;
+
+  }
